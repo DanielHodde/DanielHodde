@@ -8,6 +8,7 @@
   <img align="left" alt="Daniel's email" height=40px width=70px src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" />
 </a>
 <br />
+<br />
 
 ### About
 I am currently a Sophomore studying Computer Science and Cognitive Science at UC Berkeley with interests in ML, AI, cloud computing and more.
@@ -38,15 +39,15 @@ Feel free to reach out over email or linkedin if you have any questions.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHodde&theme=material-palenight&border=61dafb&hide_border=true" alt="DanielHodde" />
+      <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHodde&theme=material-palenight&border=61dafb&hide_border=true" alt="DanielHodde" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=DanielHodde&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=DanielHodde&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=DanielHodde&bg_color=202331&color=c792ea&line=89ddff&point=676E95&hide_border=true" width="89.5%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=DanielHodde&bg_color=202331&color=c792ea&line=89ddff&point=676E95&hide_border=true" width="95%"/>
   </div>
 </p>
 <hr>
