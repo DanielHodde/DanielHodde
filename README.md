@@ -39,10 +39,10 @@ Feel free to reach out over email or linkedin if you have any questions.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=485 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHodde&theme=material-palenight&border=61dafb&hide_border=true" alt="DanielHodde" />
+      <img align="center" width=475 src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHodde&theme=material-palenight&border=61dafb&hide_border=true" alt="DanielHodde" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=DanielHodde&repo=github-readme-stats&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
+      <img align="center" width=475 src="https://github-readme-stats.vercel.app/api?username=DanielHodde&repo=github-readme-stats&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
