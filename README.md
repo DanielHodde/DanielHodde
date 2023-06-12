@@ -37,12 +37,12 @@ Feel free to reach out over email or linkedin if you have any questions.
 
 ### Stats
 <!-- Activity Stats (Commits, pulls, etc) -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel Hodde's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DanielHodde&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielHodde&show_icons=true&theme=material-palenight&rank_icon=github)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielHodde)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielHodde&theme=material-palenight)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Daniel Hodde's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DanielHodde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielHodde&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
