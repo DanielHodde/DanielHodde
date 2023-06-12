@@ -19,13 +19,16 @@ Feel free to reach out over email or linkedin if you have any questions.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Technology Stack
+### Technology
 
 ![Python](https://img.shields.io/badge/python-82aaff?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-82aaff.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-82aaff.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-82aaff.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-82aaff.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-82aaff.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-82aaff.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-82aaff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 ### Tools
 
