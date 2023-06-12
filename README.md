@@ -36,12 +36,14 @@ Feel free to reach out over email or linkedin if you have any questions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Stats
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra">
-  <img align="center" src="https://github.com/DanielHodde/github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielHodde&repo=github-readme-stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHodde&layout=compact)" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielHodde&repo=convoychat" />
 </a>
+
+
 
 
 <!-- Github Stats (number of contributions and grade) -->
