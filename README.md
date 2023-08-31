@@ -11,11 +11,11 @@
 <br />
 
 ### About
-I am currently a Sophomore studying Computer Science and Cognitive Science at UC Berkeley with interests in ML, AI, cloud computing and more.
+I am currently a Junior at UC Berkeley majoring in Computer Science and Cognitive Science with a minor in Data Science.
 
 Outside of software I am into biking, climbing and backpacking and reading.
 
-Feel free to reach out over email or linkedin if you have any questions.
+Feel free to reach out over email or linkedin if you have any questions or want to connect.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
