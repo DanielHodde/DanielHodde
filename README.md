@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Daniel Hodde! </h1>
 
 <a href="https://www.linkedin.com/in/danielhodde/">
-  <img align="left" alt="Daniel's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Daniel's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:danielhodde@berkeley.edu">
-  <img align="left" alt="Daniel's email" height=40px width=70px src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" />
+  <img align="left" alt="Daniel's email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
 <br />
