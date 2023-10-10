@@ -11,7 +11,7 @@
 <br />
 
 ### About
-I am currently a Junior at UC Berkeley majoring in Computer Science and Cognitive Science with a minor in Data Science.
+I am currently a Junior at UC Berkeley majoring in Computer Science, Cognitive Science and Data Science.
 
 Outside of software I am into biking, climbing and backpacking and reading.
 
