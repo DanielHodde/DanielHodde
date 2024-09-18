@@ -33,7 +33,6 @@ Feel free to reach out over email or linkedin if you have any questions or want 
 ![RiscV](https://img.shields.io/badge/RiscV-82aaff.svg?style=for-the-badge&logo=riscv&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-82aaff.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-82aaff.svg?style=for-the-badge&logo=sql&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/numpy-82aaff.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-82aaff.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-82aaff.svg?style=for-the-badge&logo=firebase&logoColor=white)
@@ -43,7 +42,6 @@ Feel free to reach out over email or linkedin if you have any questions or want 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-82aaff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/mapbox-82aaff.svg?style=for-the-badge&logo=mapbox&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-82aaff.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-82aaff.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-82aaff.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-82aaff.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
